@@ -1,2 +1,2 @@
-# @tianyong90/vue-markdown-loader
+# vue-markdown-loader
 
